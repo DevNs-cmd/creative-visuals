@@ -19,8 +19,8 @@
 
 ## 🚀 Live Demo
 
+- **Live Website**: [https://creative-visuals.vercel.app](https://creative-visuals.vercel.app)
 - **GitHub Repository**: [https://github.com/DevNs-cmd/creative-visuals](https://github.com/DevNs-cmd/creative-visuals)
-- **Vercel Deployment**: Live URL will be generated upon deployment
 
 ---
 
