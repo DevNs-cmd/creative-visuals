@@ -1,0 +1,18 @@
+{
+  "name": "creative-visuals",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Creative Visuals — Creative Marketing Agency Landing Page",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "creative-visuals",
+    "agency",
+    "marketing",
+    "portfolio",
+    "creative"
+  ],
+  "author": "DevNs-cmd",
+  "license": "MIT"
+}
